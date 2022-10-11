@@ -1,0 +1,150 @@
+@node Tarballs
+@section Prepared tarballs
+
+You can obtain releases source code prepared tarballs from the links below.
+Do not forget to check tarball @ref{Integrity, integrity}.
+
+Tarballs include all necessary required libraries:
+
+@multitable @columnfractions .40 .20 .40
+@headitem Library @tab Platform @tab Licence
+@item @code{cypherpunks.ru/balloon} @tab All @tab GNU LGPLv3
+@item @code{github.com/agl/ed25519} @tab All @tab BSD 3-Clause
+@item @code{github.com/bigeagle/water} @tab GNU/Linux @tab BSD 3-Clause
+@item @code{github.com/go-yaml/yaml} @tab All @tab Apache License 2.0 and MIT
+@item @code{golang.org/x/crypto} @tab All @tab BSD 3-Clause
+@item @code{golang.org/x/sys} @tab All @tab BSD 3-Clause
+@end multitable
+
+@multitable {XXXXX} {XXXX-XX-XX} {XXXX KiB} {link sign} {xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx}
+@headitem Version @tab Date @tab Size @tab Tarball @tab SHA256 checksum
+
+@item @ref{Release 7.5, 7.5} @tab 2018-08-28 @tab 674 KiB
+@tab @url{download/govpn-7.5.tar.xz, link} @url{download/govpn-7.5.tar.xz.sig, sign}
+@tab @code{B0D30313 8A410831 09B42576 F52888EF 17DE3BC7 A8016D06 2F43A34F 795A8C80}
+
+@item @ref{Release 7.4, 7.4} @tab 2017-08-27 @tab 494 KiB
+@tab @url{download/govpn-7.4.tar.xz, link} @url{download/govpn-7.4.tar.xz.sig, sign}
+@tab @code{2335504F 2975B8E2 F3835BB1 E5FECDDC 6E426F71 D29359E0 83F09F79 2A0763EF}
+
+@item @ref{Release 7.3, 7.3} @tab 2017-04-04 @tab 289 KiB
+@tab @url{download/govpn-7.3.tar.xz, link} @url{download/govpn-7.3.tar.xz.sig, sign}
+@tab @code{C3A27353 4A448112 09C4CB1D CA26EBFE 56644D5A D51C8216 BA22EC18 150A4EE8}
+
+@item @ref{Release 7.2, 7.2} @tab 2017-02-14 @tab 289 KiB
+@tab @url{download/govpn-7.2.tar.xz, link} @url{download/govpn-7.2.tar.xz.sig, sign}
+@tab @code{8C787DCD 6FFB718E 850F287E 959FCB45 7880A8A1 1C417BCA 17A86346 AC9BAAEE}
+
+@item @ref{Release 7.1, 7.1} @tab 2017-01-24 @tab 289 KiB
+@tab @url{download/govpn-7.1.tar.xz, link} @url{download/govpn-7.1.tar.xz.sig, sign}
+@tab @code{DB656A87 508D6902 B9C8964D C20937BF C95E1E78 1998311F F8F85A95 F64862BB}
+
+@item @ref{Release 7.0, 7.0} @tab 2016-10-29 @tab 287 KiB
+@tab @url{download/govpn-7.0.tar.xz, link} @url{download/govpn-7.0.tar.xz.sig, sign}
+@tab @code{DF85E42D F1228E8C FA5D582D AEF90553 23033630 E12B0B26 D7DEFBEB B25DBC4C}
+
+@item @ref{Release 6.0, 6.0} @tab 2016-09-11 @tab 310 KiB
+@tab @url{download/govpn-6.0.tar.xz, link} @url{download/govpn-6.0.tar.xz.sig, sign}
+@tab @code{3ACAE3B9 884F3260 38FCA9CE 6A309DF6 71BE6386 1FB2058B C79AE7DC 2A1A1811}
+
+@item @ref{Release 5.10, 5.10} @tab 2016-07-07 @tab 316 KiB
+@tab @url{download/govpn-5.10.tar.xz, link} @url{download/govpn-5.10.tar.xz.sig, sign}
+@tab @code{BC624265 CFCDA8CE 1C1BBF9D 016683C5 0EC6CBA5 AECCF33D 93FCA4E5 D52098BD}
+
+@item @ref{Release 5.9, 5.9} @tab 2016-07-07 @tab 315 KiB
+@tab @url{download/govpn-5.9.tar.xz, link} @url{download/govpn-5.9.tar.xz.sig, sign}
+@tab @code{FF6AFD2A 9EF51A3C 6640A33C 63B06049 0F7D9460 220307C4 CB7E2F62 26497945}
+
+@item @ref{Release 5.8, 5.8} @tab 2016-05-10 @tab 312 KiB
+@tab @url{download/govpn-5.8.tar.xz, link} @url{download/govpn-5.8.tar.xz.sig, sign}
+@tab @code{A730DC3B BB97BC41 2A80F529 B0F3043E 70D01138 7F5D579C BD2E2996 4DDF94F4}
+
+@item @ref{Release 5.7, 5.7} @tab 2016-03-13 @tab 312 KiB
+@tab @url{download/govpn-5.7.tar.xz, link} @url{download/govpn-5.7.tar.xz.sig, sign}
+@tab @code{17A8A223 E2D9D4FD 537F8DE8 02BC6C72 F16EBF8A 8C5430E3 FBF045C3 04F9DFEC}
+
+@item @ref{Release 5.6, 5.6} @tab 2016-02-12 @tab 311 KiB
+@tab @url{download/govpn-5.6.tar.xz, link} @url{download/govpn-5.6.tar.xz.sig, sign}
+@tab @code{D46B8F74 2F1E2BF1 72368685 12F1EA5A D80F59C3 BAC753A5 6CE41A1F 465282A8}
+
+@item @ref{Release 5.5, 5.5} @tab 2016-02-06 @tab 310 KiB
+@tab @url{download/govpn-5.5.tar.xz, link} @url{download/govpn-5.5.tar.xz.sig, sign}
+@tab @code{2F32E02C 34A13EAE 538BE7B4 4C11E16A 8E68C43A FC8E4A30 71172F9C 52B861D8}
+
+@item @ref{Release 5.4, 5.4} @tab 2016-01-31 @tab 310 KiB
+@tab @url{download/govpn-5.4.tar.xz, link} @url{download/govpn-5.4.tar.xz.sig, sign}
+@tab @code{A1A001D9 EF899FF6 B61872EB 7D2425A0 9EB01615 74F50C8D A6E4B14B EB9B0FF6}
+
+@item @ref{Release 5.3, 5.3} @tab 2016-01-21 @tab 301 KiB
+@tab @url{download/govpn-5.3.tar.xz, link} @url{download/govpn-5.3.tar.xz.sig, sign}
+@tab @code{50955D0A 2EA41236 682CB5AC 24521069 1FB6ECBE 88D138C5 873E2362 E547DA48}
+
+@item @ref{Release 5.2, 5.2} @tab 2016-07-07 @tab 300 KiB
+@tab @url{download/govpn-5.2.tar.xz, link} @url{download/govpn-5.2.tar.xz.sig, sign}
+@tab @code{44E3A326 5B30305A 4436E172 565585C3 27FB28D2 6197E61B 7496C437 D032C0DB}
+
+@item @ref{Release 5.1, 5.1} @tab 2016-01-10 @tab 287 KiB
+@tab @url{download/govpn-5.1.tar.xz, link} @url{download/govpn-5.1.tar.xz.sig, sign}
+@tab @code{0D456C56 83287DCA 31F8C330 2EB9A932 9FEAB82B C1FBDB00 98FCA991 513536D1}
+
+@item @ref{Release 5.0, 5.0} @tab 2016-01-06 @tab 237 KiB
+@tab @url{download/govpn-5.0.tar.xz, link} @url{download/govpn-5.0.tar.xz.sig, sign}
+@tab @code{CC186A3B 800279B6 F5A7C86D 61B250C2 4CF97235 F6C3E1BB 05A6CB60 251085C6}
+
+@item @ref{Release 4.2, 4.2} @tab 2015-11-15 @tab 233 KiB
+@tab @url{download/govpn-4.2.tar.xz, link} @url{download/govpn-4.2.tar.xz.sig, sign}
+@tab @code{DC2D390B 9DCFB30A 3612018D 410B61DD F8EDD82F 4D9AA5ED 2691B027 BE10BA0A}
+
+@item @ref{Release 4.1, 4.1} @tab 2015-11-04 @tab 227 KiB
+@tab @url{download/govpn-4.1.tar.xz, link} @url{download/govpn-4.1.tar.xz.sig, sign}
+@tab @code{FBC7A730 AFE96384 827DC1E1 402C5316 5710ADE5 113D9053 1427C391 72E40ACA}
+
+@item @ref{Release 4.0, 4.0} @tab 2015-09-19 @tab 183 KiB
+@tab @url{download/govpn-4.0.tar.xz, link} @url{download/govpn-4.0.tar.xz.sig, sign}
+@tab @code{A791C356 9C01DEA8 B18AA2F2 1D27B797 DED76F2C 33A8D96C 2DB864A9 ABF2615B}
+
+@item @ref{Release 3.5, 3.5} @tab 2015-08-28 @tab 179 KiB
+@tab @url{download/govpn-3.5.tar.xz, link} @url{download/govpn-3.5.tar.xz.sig, sign}
+@tab @code{6B60C2CD 4A8B4B2C 893E52D3 36651067 8704FD68 A02A0EA2 4CB112BD 753EA54B}
+
+@item @ref{Release 3.4, 3.4} @tab 2015-05-24 @tab 175 KiB
+@tab @url{download/govpn-3.4.tar.xz, link} @url{download/govpn-3.4.tar.xz.sig, sign}
+@tab @code{266612A7 F8FAA6CE B2955ED6 11C0C218 72776306 F4EAAD5B 785145BB B0390C82}
+
+@item @ref{Release 3.3, 3.3} @tab 2015-05-20 @tab 175 KiB
+@tab @url{download/govpn-3.3.tar.xz, link} @url{download/govpn-3.3.tar.xz.sig, sign}
+@tab @code{1834A057 215324F4 9D6272B2 BEB89F15 32105156 F7E853EA E8556599 92AC0C84}
+
+@item @ref{Release 3.2, 3.2} @tab 2015-05-10 @tab 174 KiB
+@tab @url{download/govpn-3.2.tar.xz, link} @url{download/govpn-3.2.tar.xz.sig, sign}
+@tab @code{388E98D6 ADEF5EBF 3431B0D4 8419F54D 2E2064C6 57DE67E2 3C669EBC F273126D}
+
+@item @ref{Release 3.1, 3.1} @tab 2015-05-04 @tab 54 KiB
+@tab @url{download/govpn-3.1.tar.xz, link} @url{download/govpn-3.1.tar.xz.sig, sign}
+@tab @code{4034A67E B472E337 60ED1783 CA871F53 1C3A6BE9 9B9BD621 3F4F83C1 147C344B}
+
+@item @ref{Release 3.0, 3.0} @tab 2015-05-03 @tab 53 KiB
+@tab @url{download/govpn-3.0.tar.xz, link} @url{download/govpn-3.0.tar.xz.sig, sign}
+@tab @code{12579C5C 3CCCFE73 C66B5893 335BC70C 42D7B13B 8E94C775 1EC65D42 1EAFF9A5}
+
+@item @ref{Release 2.4, 2.4} @tab 2015-04-30 @tab 42 KiB
+@tab @url{download/govpn-2.4.tar.xz, link} @url{download/govpn-2.4.tar.xz.sig, sign}
+@tab @code{DF45225B AC2384C5 EED73C5C DB05DC35 81495E08 D365317B EB03A248 7D46B98C}
+
+@item @ref{Release 2.3, 2.3} @tab 2017-01-10 @tab 35 KiB
+@tab @url{download/govpn-2.3.tar.xz, link} @url{download/govpn-2.3.tar.xz.sig, sign}
+@tab @code{92986EC6 D6DA107C 6CC11436 59E5A154 CD19B8F2 EDE5FA7F 5CCC4525 AE468E97}
+
+@item @ref{Release 2.2, 2.2} @tab 2015-03-15 @tab 32 KiB
+@tab @url{download/govpn-2.2.tar.xz, link} @url{download/govpn-2.2.tar.xz.sig, sign}
+@tab @code{5745278B CE8B9A3B D7EC1636 507BBCE8 C17BA1D7 9F1568E2 F3681B7A 90BBE6E1}
+
+@item @ref{Release 2.0, 2.0} @tab 2015-03-12 @tab 31 KiB
+@tab @url{download/govpn-2.0.tar.xz, link} @url{download/govpn-2.0.tar.xz.sig, sign}
+@tab @code{D43BE124 8D6A46BA 8CA75BE2 FDAB5E3D 8B0660FB 9DF9B6D8 7CFA3973 722B42BE}
+
+@item @ref{Release 1.5, 1.5} @tab 2015-03-02 @tab 19 KiB
+@tab @url{download/govpn-1.5.tar.xz, link} @url{download/govpn-1.5.tar.xz.sig, sign}
+@tab @code{715B07D4 D1EA4396 C3E37014 CA65EC37 68818423 521F3C12 E7200B6E DCA48C31}
+
+@end multitable
