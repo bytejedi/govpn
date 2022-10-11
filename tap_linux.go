@@ -1,5 +1,4 @@
 //go:build linux
-// +build linux
 
 /*
 GoVPN -- simple secure free software virtual private network daemon
@@ -13,13 +12,16 @@ import (
 	"io"
 	"strings"
 
-	"github.com/bigeagle/water"
+	"github.com/songgao/water"
 )
 
 func newTAPer(ifaceName string) (io.ReadWriter, error) {
+	var cfg water.Config
 	if strings.HasPrefix(ifaceName, "tap") {
-		return water.NewTAP(ifaceName)
+		cfg.DeviceType = water.TAP
 	} else {
-		return water.NewTUN(ifaceName)
+		cfg.DeviceType = water.TUN
 	}
+	cfg.Name = ifaceName
+	return water.New(cfg)
 }

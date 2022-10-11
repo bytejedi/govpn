@@ -1,5 +1,4 @@
 //go:build freebsd
-// +build freebsd
 
 /*
 GoVPN -- simple secure free software virtual private network daemon
